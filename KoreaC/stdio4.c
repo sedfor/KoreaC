@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main() {
+void main4() {
 
 	char name[] = "이민혁";
 	int age = 29;
@@ -8,7 +8,7 @@ void main() {
 	int height = 175;
 	char gender = 'M';
 
-	printf("안녕하세요 저는 %s입니다 %d살이고 몸무게는 %fkg, 키는 %dcm, 성별은 %c입니다", name, age, weight, height, gender);
+	printf("안녕하세요 저는 %s입니다 %d살이고 몸무게는 %fkg, 키는 %dcm, 성별은 %c입니다\n", name, age, weight, height, gender);
 
 }
 
