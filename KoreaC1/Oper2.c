@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-void main() {
+void main55() {
 	int number1 = 3 + 4 + 5;
 	int number2 = 3 + 4 * 5;	// 23
 	int number3 = (3 + 4) * 5;	// 35
