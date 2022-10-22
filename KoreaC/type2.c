@@ -3,7 +3,6 @@
 
 #include <stdio.h>
 
-void main0() {
 
 	printf("%d\n", (short)3.1415);
 	printf("%d\n", (int)3.1415);
